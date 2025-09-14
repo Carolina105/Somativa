@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+from utils import soma
+
+if __name__ == "__main__":
+    print("Hello world, DevOps com Python!")
+    print("2 + 3 =", soma(2, 3))
